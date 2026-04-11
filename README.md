@@ -58,6 +58,8 @@ The company wanted to understand:
 
 🛠️ **Tools & Technologies Used:**
 
+
+* SQL
 * Power BI
 * Microsoft Excel (Data Cleaning & Preparation)
 
