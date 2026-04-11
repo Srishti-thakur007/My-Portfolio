@@ -108,8 +108,7 @@ To understand:
 This analysis helps understand audience preferences and content strategy for streaming platforms.
 
 🔗 **Project Link:**
-https://github.com/your-username/netflix-analysis
-
+https://github.com/Srishti-thakur007/Netflix-dataset-analysis
 ---
 
 ### 🛒 3. E-commerce Sales Dashboard
