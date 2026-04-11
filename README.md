@@ -67,7 +67,7 @@ The company wanted to understand:
 This dashboard helps businesses quickly monitor performance and make strategic decisions to improve sales and profitability.
 
 🔗 **Project Link:**
-https://github.com/your-username/pizza-sales
+https://github.com/Srishti-thakur007/Pizza-sales-insights
 
 ---
 
