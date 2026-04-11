@@ -31,9 +31,6 @@ I am a passionate **Data Analyst** with a background in **Commerce and Computer 
 
 ### 🍕 1. Pizza Sales Dashboard
 
-<p align="center">
-  <img src="pizza-dashboard.png" width="650"/>
-</p>
 
 📌 **Project Overview:**
 The Pizza Sales Dashboard is an interactive Power BI project designed to analyze and visualize sales performance of a pizza business. The objective of this project is to identify key business insights, track performance metrics, and support data-driven decision-making.
