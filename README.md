@@ -29,10 +29,6 @@ I am a passionate **Data Analyst** with a background in **Commerce and Computer 
 
 ---
 
-## 📊 My Projects
-
----
-
 ### 🍕 1. Pizza Sales Dashboard
 
 <p align="center">
