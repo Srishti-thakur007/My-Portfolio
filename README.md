@@ -109,7 +109,9 @@ This analysis helps understand audience preferences and content strategy for str
 
 🔗 **Project Link:**
 https://github.com/Srishti-thakur007/Netflix-dataset-analysis
+
 ---
+
 
 ### 🛒 3. E-commerce Sales Dashboard
 
