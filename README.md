@@ -71,9 +71,6 @@ https://github.com/your-username/pizza-sales
 
 ### 🎬 2. Netflix Data Analysis (Python Project)
 
-<p align="center">
-  <img src="netflix-analysis.png" width="650"/>
-</p>
 
 📌 **Project Overview:**
 This project focuses on analyzing Netflix dataset using Python to uncover trends in content distribution, genres, and popularity.
@@ -115,9 +112,6 @@ https://github.com/your-username/netflix-analysis
 
 ### 🛒 3. E-commerce Sales Dashboard
 
-<p align="center">
-  <img src="ecommerce-dashboard.png" width="650"/>
-</p>
 
 📌 **Project Overview:**
 An interactive Power BI dashboard designed to analyze e-commerce sales data and track business performance across different regions and product categories.
