@@ -149,7 +149,7 @@ The goal was to:
 This dashboard enables businesses to monitor performance in real-time and make data-driven decisions to improve growth.
 
 🔗 **Project Link:**
-https://github.com/your-username/ecommerce-dashboard
+https://github.com/Srishti-thakur007/e-commerce-project.
 
 ---
 
