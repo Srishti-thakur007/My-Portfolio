@@ -165,38 +165,39 @@ Developed an end-to-end Banking Analytics Dashboard using Excel, SQL, Python, an
 Banks generate large volumes of customer and transaction data, making it challenging to monitor customer activity, loan performance, operational risk, and service quality. This project provides interactive dashboards that help stakeholders track key banking metrics and support data-driven decision-making.
 
 🛠️**Tools & Technologies**
-📊 *Microsoft Excel
-🗄️ *SQL
-🐍 *Python
-📈 *Power BI
-⚡ *Power Query
-📐 *DAX
-📊 *Key KPIs
-👥 *Total Customers
-💳 *Total Transactions
-💰 *Total Loan Amount
-📈 *Average Account Balance
-💵 *Average Loan Amount
-⚠️ *High-Risk Customers
-💳 *Credit Utilization
-✅ *Loan Approval Rate
-💬 *Resolution Rate
-⏱️ *Average Resolution Time
+📊 * Microsoft Excel
+🗄️ * SQL
+🐍 * Python
+📈 * Power BI
+⚡ * Power Query
+📐 * DAX
+📊 * Key KPIs
+👥 * Total Customers
+💳 * Total Transactions
+💰 * Total Loan Amount
+📈 * Average Account Balance
+💵 * Average Loan Amount
+⚠️ * High-Risk Customers
+💳 * Credit Utilization
+✅ * Loan Approval Rate
+💬 * Resolution Rate
+⏱️ * Average Resolution Time
 
 💡**Key Insights**
 
-*Customer demographics and account behavior analysis.
-*Loan portfolio performance and approval trend analysis.
-*Identification of high-risk customers using risk indicators.
-*Credit card utilization and spending pattern analysis.
-*Branch-wise and city-wise banking performance analysis.
-*Customer feedback and resolution status monitoring.
+* Customer demographics and account behavior analysis.
+* Loan portfolio performance and approval trend analysis.
+* Identification of high-risk customers using risk indicators.
+* Credit card utilization and spending pattern analysis.
+* Branch-wise and city-wise banking performance analysis.
+* Customer feedback and resolution status monitoring.
 
 🚀**Project Outcome**
 
 Built an interactive Banking Analytics solution that enables users to monitor customer performance, transaction trends, loan analytics, risk metrics, and customer feedback through dynamic KPIs, slicers, and visual dashboards. The project demonstrates end-to-end data analytics skills, from data preparation to business intelligence reporting, helping support informed business decisions.
 
 🔗 **Project Link**
+
 GitHub Repository: https://github.com/Srishti-thakur007/Banking_Analytics
 
 ---
