@@ -153,14 +153,16 @@ https://github.com/Srishti-thakur007/e-commerce-project.
 
 ---
 
-🏦 ***Banking Analytics Dashboard***
-📌 **Project Overview**
+### 🏦 4. Banking Analytics Dashboard
+
+
+📌 **Project Overview:**
 Developed an end-to-end Banking Analytics Dashboard using Excel, SQL, Python, and Power BI to transform raw banking data into meaningful business insights. The project includes data cleaning, SQL querying, exploratory data analysis (EDA), data modeling, and interactive dashboards to analyze customer behavior, loan performance, risk indicators, credit card usage, and customer feedback.
 
-🎯 **Business Problem**
+🎯 **Business Problem:**
 Banks generate large volumes of customer and transaction data, making it challenging to monitor customer activity, loan performance, operational risk, and service quality. This project provides interactive dashboards that help stakeholders track key banking metrics and support data-driven decision-making.
 
-🛠️Tools & Technologies
+🛠️**Tools & Technologies**
 📊 Microsoft Excel
 🗄️ SQL
 🐍 Python
@@ -191,6 +193,6 @@ Banks generate large volumes of customer and transaction data, making it challen
 Built an interactive Banking Analytics solution that enables users to monitor customer performance, transaction trends, loan analytics, risk metrics, and customer feedback through dynamic KPIs, slicers, and visual dashboards. The project demonstrates end-to-end data analytics skills, from data preparation to business intelligence reporting, helping support informed business decisions.
 
 🔗 **Project Link**
-GitHub Repository: (Paste your GitHub repository link here)
+GitHub Repository: https://github.com/Srishti-thakur007/Banking_Analytics
 
 ---
