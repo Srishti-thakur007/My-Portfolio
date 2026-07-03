@@ -165,23 +165,23 @@ Developed an end-to-end Banking Analytics Dashboard using Excel, SQL, Python, an
 Banks generate large volumes of customer and transaction data, making it challenging to monitor customer activity, loan performance, operational risk, and service quality. This project provides interactive dashboards that help stakeholders track key banking metrics and support data-driven decision-making.
 
 🛠️**Tools & Technologies**
-📊 * Microsoft Excel
-🗄️ * SQL
-🐍 * Python
-📈 * Power BI
-⚡ * Power Query
-📐 * DAX
-📊 * Key KPIs
-👥 * Total Customers
-💳 * Total Transactions
-💰 * Total Loan Amount
-📈 * Average Account Balance
-💵 * Average Loan Amount
-⚠️ * High-Risk Customers
-💳 * Credit Utilization
-✅ * Loan Approval Rate
-💬 * Resolution Rate
-⏱️ * Average Resolution Time
+ * Microsoft Excel
+ * SQL
+ * Python
+ * Power BI
+ * Power Query
+ * DAX
+ * Key KPIs
+ * Total Customers
+ * Total Transactions
+ * Total Loan Amount
+ * Average Account Balance
+ * Average Loan Amount
+ * High-Risk Customers
+ * Credit Utilization
+ * Loan Approval Rate
+ * Resolution Rate
+ * Average Resolution Time
 
 💡**Key Insights**
 
